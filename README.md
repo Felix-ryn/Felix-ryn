@@ -126,5 +126,7 @@
 ---
 
 <p align="center">
-  <i>"Code. Learn. Share. Repeat."</i>
+  <i>"Small commits, big impact."
+
+</i>
 </p>
