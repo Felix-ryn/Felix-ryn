@@ -1,7 +1,9 @@
 <!-- Profil Felix-ryn -->
 
-<h1 align="center">Hi 👋, I'm Felix Ryan</h1>
-<h3 align="center">📊 Data Science Student | 💻 Web Developer | 🎓 PENS Surabaya</h3>
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height:1.5; color: #111;">
+
+<h1 align="center">Hi, I'm Felix Ryan</h1>
+<h3 align="center">Data Science Student | Machine Learning Engineer | Web Developer | PENS Surabaya</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Sains+Data+%7C+Flask+%7C+React+%7C+Node.js;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
@@ -13,15 +15,10 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felix-ryn&theme=tokyonight" width="48%" />
-</p>
 
----
+### Technologies & Tools
 
-### 🔧 Technologies & Tools
-
-#### 👨‍💻 Programming Languages  
+#### Programming Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/python-FFE873?style=flat-rounded&logo=python&logoColor=darkblue" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-rounded&logo=r&logoColor=white" />
@@ -32,7 +29,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-rounded&logo=dart&logoColor=white" />
 </p>
 
-#### 🌐 Web Development  
+#### Web Development  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css3&logoColor=white" />
@@ -47,7 +44,7 @@
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-rounded&logo=nodemon&logoColor=white" />
 </p>
 
-#### 📊 Data & Analysis  
+#### Data & Analysis  
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-rounded&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-rounded&logo=numpy&logoColor=white" />
@@ -60,7 +57,17 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-rounded&logo=powerbi&logoColor=black" />
 </p>
 
-#### 🛠️ Dev Tools & Deployment  
+#### Machine Learning & AI Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-rounded&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-rounded&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-rounded&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-rounded&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-rounded&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-rounded&logo=mlflow&logoColor=white" />
+</p>
+
+#### Dev Tools & Deployment  
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-rounded&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-rounded&logo=vercel&logoColor=white" />
@@ -69,14 +76,14 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-rounded&logo=json-web-token&logoColor=white" />
 </p>
 
-#### 🗃️ Databases  
+#### Databases  
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-rounded&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-rounded&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-rounded&logo=sqlite&logoColor=white" />
 </p>
 
-#### 🎨 Others  
+#### Others  
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-rounded&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-rounded&logo=github&logoColor=white" />
@@ -86,18 +93,15 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-rounded&logo=wordpress&logoColor=white" />
 </p>
 
-
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felix-ryn&show_icons=true&theme=tokyonight" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-ryn&layout=compact&theme=tokyonight" width="30%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felix-ryn&theme=tokyonight" width="30%" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felix-ryan-agusta-4ab72927a/" target="_blank">
@@ -116,17 +120,16 @@
 
 ---
 
-### 💬 About Me
+### About Me
 
-- 🎓 Mahasiswa Sains Data di PENS Surabaya  
-- 🔭 Sedang mendalami backend development dan data analysis  
-- 🚀 Tertarik dengan machine learning, big data, dan cloud engineering  
-- 🧠 Misi: Mengasah keterampilan, aktif di komunitas teknologi, dan membangun produk yang berdampak
+- Undergraduate Data Science student at Politeknik Elektronika Negeri Surabaya (PENS)  
+- Focused on backend development, data analysis, and machine learning system design  
+- Experienced in developing, training, and deploying machine learning models into applications  
+- Interested in machine learning engineering, big data processing, and cloud-based systems  
+- Mission: continuously improve technical skills, actively contribute to tech communities, and build impactful, data-driven products
 
 ---
 
-<p align="center">
-  <i>"Small commits, big impact."
+<p align="center"><em>"Small commits, big impact."</em></p>
 
-</i>
-</p>
+</div>
