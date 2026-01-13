@@ -93,11 +93,6 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-rounded&logo=wordpress&logoColor=white" />
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felix-ryn&theme=tokyonight" width="30%" />
-</p>
 
 ---
 
