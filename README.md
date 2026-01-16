@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Felix Ryan</h1>
 <h3 align="center">Data Science Student | Machine Learning Engineer | Web Developer | PENS Surabaya</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Sains+Data+%7C+Flask+%7C+React+%7C+Node.js;Let%27s+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
